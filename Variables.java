@@ -9,4 +9,10 @@ public class Variables {
         System.out.println((Employee_ID +"\n"+DOJ+"\n"+Previous_Salary+"\n"+Current_salary+"\n"+ispromoted+"\n"+Experience));
 
     }
+
+//    public static void main(String[] args) {
+//
+//    }
+
+
 }
