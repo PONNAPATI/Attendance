@@ -17,6 +17,7 @@ public class Variables {
 
         Copy_datatypes(8, "Victor");
         Copy_datatypes1(8,4);
+
         //Copy_datatypes();//We need call the method name inside Main method() to print the output from other methods
         Employee();
 
